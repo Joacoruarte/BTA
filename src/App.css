@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.container-coin {
+  text-align: center;
+  background-image: url("https://static.wixstatic.com/media/3185a6_12fa45117464402c9f46a50b39b7953b~mv2.gif");
+}
 
 .App-logo {
   height: 40vmin;
